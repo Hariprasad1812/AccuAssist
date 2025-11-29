@@ -1,0 +1,9 @@
+// Deluge sample to update employee display name in Zoho People (conceptual)
+// Replace form and field names with your tenant's specifics
+
+userId = input.userId.toLong();
+newName = input.new_name;
+updateMap = Map();
+updateMap.put("display_name", newName);
+resp = zoho.people.updateRecord("Employees", userId, updateMap);
+info resp;

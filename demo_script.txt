@@ -1,0 +1,10 @@
+AccuAssist Demo Script (60-90s)
+
+1) Title slide: AccuAssist — Instant changes. Zero confusion.
+2) Show Zoho Cliq chat: user types "reset password"
+3) Bot replies asking to send OTP to email
+4) User enters OTP -> bot confirms and logs action
+5) Show admin dashboard pending approvals (if any)
+6) Show approve action -> display name updated
+7) Show security score command and bot's reply
+8) Closing slide and contact

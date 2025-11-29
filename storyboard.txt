@@ -1,0 +1,6 @@
+1) Title: AccuAssist title + tagline
+2) Cliq chat reset password flow
+3) OTP verification popup
+4) Bot success message and email notification
+5) Admin dashboard showing request and approve
+6) Final confirmation and logs
